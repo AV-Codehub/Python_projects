@@ -1,7 +1,7 @@
 print("MY FIRST CALCULATOR")
 
 A = float (input("enter the first number: "))
-operation = input("Enter the operation: ")
+operation = input("Enter the operation (+,-,*,/,%,**) : ")
 B = float (input("enter the second number: "))
 
 if operation == '+':
